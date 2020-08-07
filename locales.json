@@ -16,9 +16,9 @@
     "singIn": "войти в систему!"
   },
   "tr": {
-    "password": "Sifre",
-    "phoneNumber": "Telefon Numarasi",
-    "singIn": "Giris Yap!"
+    "password": "Şifre",
+    "phoneNumber": "Telefon Numarası",
+    "singIn": "Giriş Yap!"
   },
   "fr": {
     "password": "Wachtwurd",
