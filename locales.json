@@ -30,6 +30,11 @@
       "password": "パスワード",
       "phoneNumber": "フォン",
       "singIn": "サインイン!"
-    }
+    },
+    "zh": {
+        "password": "密码",
+        "phoneNumber": "電話番号",
+        "singIn": "登入"
+      }
   }
 }
