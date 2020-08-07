@@ -1,33 +1,35 @@
 {
-  "en": {
-    "password": "Password",
-    "phoneNumber": "Phone Number",
-    "singIn": "Sign in!"
-  },
-  "es": {
-    "password": "Contraseña",
-    "phoneNumber": "Número de teléfono",
-    "singIn": "Registrarse!"
-  },
-  "ru": {
-    "password": "пароль",
-    "phoneNumber": "Телефонный номер",
-    "singIn": "войти в систему!"
-  },
-  "tr": {
-    "password": "Şifre",
-    "phoneNumber": "Telefon Numarası",
-    "singIn": "Giriş Yap!"
-  },
-  "fr": {
-    "password": "Mot de passe",
-    "phoneNumber": "Numéro de téléphone",
-    "singIn": "Se connecter!"
-  },
-  "ja": {
-    "password": "パスワード",
-    "phoneNumber": "フォン",
-    "singIn": "サインイン!"
-  },
-  "languages": ["tr", "en", "ru", "es", "fr","ja"]
+  "languages": ["tr", "en", "ru", "es", "fr", "ja"],
+  "translations": {
+    "en": {
+      "password": "Password",
+      "phoneNumber": "Phone Number",
+      "singIn": "Sign in!"
+    },
+    "es": {
+      "password": "Contraseña",
+      "phoneNumber": "Número de teléfono",
+      "singIn": "Registrarse!"
+    },
+    "ru": {
+      "password": "пароль",
+      "phoneNumber": "Телефонный номер",
+      "singIn": "войти в систему!"
+    },
+    "tr": {
+      "password": "Şifre",
+      "phoneNumber": "Telefon Numarası",
+      "singIn": "Giriş Yap!"
+    },
+    "fr": {
+      "password": "Mot de passe",
+      "phoneNumber": "Numéro de téléphone",
+      "singIn": "Se connecter!"
+    },
+    "ja": {
+      "password": "パスワード",
+      "phoneNumber": "フォン",
+      "singIn": "サインイン!"
+    }
+  }
 }
