@@ -1,0 +1,28 @@
+{
+  "en": {
+    "password": "Password",
+    "phoneNumber": "Phone Number",
+    "singIn": "Sign in!"
+  },
+  "es": {
+    "password": "Contraseña",
+    "phoneNumber": "Número de teléfono",
+    "singIn": "Registrarse!"
+  },
+  "languages": ["tr", "en", "ru", "es", "fr"],
+  "ru": {
+    "password": "пароль",
+    "phoneNumber": "Телефонный номер",
+    "singIn": "войти в систему!"
+  },
+  "tr": {
+    "password": "Sifre",
+    "phoneNumber": "Telefon Numarasi",
+    "singIn": "Giris Yap!"
+  },
+  "fr": {
+    "password": "Wachtwurd",
+    "phoneNumber": "Telefoannûmer",
+    "singIn": "Ynlogge!"
+  }
+}
