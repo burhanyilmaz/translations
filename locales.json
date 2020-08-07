@@ -9,7 +9,6 @@
     "phoneNumber": "Número de teléfono",
     "singIn": "Registrarse!"
   },
-  "languages": ["tr", "en", "ru", "es", "fr"],
   "ru": {
     "password": "пароль",
     "phoneNumber": "Телефонный номер",
@@ -21,8 +20,14 @@
     "singIn": "Giriş Yap!"
   },
   "fr": {
-    "password": "Wachtwurd",
-    "phoneNumber": "Telefoannûmer",
-    "singIn": "Ynlogge!"
-  }
+    "password": "Mot de passe",
+    "phoneNumber": "Numéro de téléphone",
+    "singIn": "Se connecter!"
+  },
+  "ja": {
+    "password": "パスワード",
+    "phoneNumber": "フォン",
+    "singIn": "サインイン!"
+  },
+  "languages": ["tr", "en", "ru", "es", "fr","ja"]
 }
