@@ -1,5 +1,5 @@
 {
-  "languages": ["tr", "en", "ru", "es", "fr", "ja"],
+  "languages": ["tr", "en", "ru", "es", "fr", "ja", "zh"],
   "translations": {
     "en": {
       "password": "Password",
