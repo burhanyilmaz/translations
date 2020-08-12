@@ -4,37 +4,37 @@
     "en": {
       "password": "Password",
       "phoneNumber": "Phone Number",
-      "singIn": "Sign in!"
+      "signIn": "Sign in!"
     },
     "es": {
       "password": "Contraseña",
       "phoneNumber": "Número de teléfono",
-      "singIn": "Registrarse!"
+      "signIn": "Registrarse!"
     },
     "ru": {
       "password": "пароль",
       "phoneNumber": "Телефонный номер",
-      "singIn": "войти в систему!"
+      "signIn": "войти в систему!"
     },
     "tr": {
       "password": "Şifre",
       "phoneNumber": "Telefon Numarası",
-      "singIn": "Giriş Yap!"
+      "signIn": "Giriş Yap!"
     },
     "fr": {
       "password": "Mot de passe",
       "phoneNumber": "Numéro de téléphone",
-      "singIn": "Se connecter!"
+      "signIn": "Se connecter!"
     },
     "ja": {
       "password": "パスワード",
       "phoneNumber": "フォン",
-      "singIn": "サインイン!"
+      "signIn": "サインイン!"
     },
     "zh": {
         "password": "密码",
         "phoneNumber": "電話番号",
-        "singIn": "登入"
+        "signIn": "登入"
       }
   }
 }
