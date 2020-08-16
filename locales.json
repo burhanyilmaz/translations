@@ -1,5 +1,5 @@
 {
-  "languages": ["tr", "en", "ru", "es", "fr", "ja", "zh"],
+  "languages": ["tr", "en", "ru", "es", "fr", "ja"],
   "translations": {
     "en": {
       "password": "Password",
@@ -30,11 +30,5 @@
       "password": "パスワード",
       "phoneNumber": "フォン",
       "signIn": "サインイン!"
-    },
-    "zh": {
-        "password": "密码",
-        "phoneNumber": "電話番号",
-        "signIn": "登入"
-      }
-  }
+    }
 }
