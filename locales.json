@@ -1,35 +1,42 @@
 {
-  "languages": ["tr", "en", "ru", "es", "fr", "ja"],
-  "translations": {
-    "en": {
-      "password": "Password",
-      "phoneNumber": "Phone Number",
-      "signIn": "Sign in!"
-    },
-    "es": {
-      "password": "Contraseña",
-      "phoneNumber": "Número de teléfono",
-      "signIn": "Registrarse!"
-    },
-    "ru": {
-      "password": "пароль",
-      "phoneNumber": "Телефонный номер",
-      "signIn": "войти в систему!"
-    },
-    "tr": {
-      "password": "Şifre",
-      "phoneNumber": "Telefon Numarası",
-      "signIn": "Giriş Yap!"
-    },
-    "fr": {
-      "password": "Mot de passe",
-      "phoneNumber": "Numéro de téléphone",
-      "signIn": "Se connecter!"
-    },
-    "ja": {
-      "password": "パスワード",
-      "phoneNumber": "フォン",
-      "signIn": "サインイン!"
-     }
-  }
+   "languages":[
+      "tr",
+      "en",
+      "ru",
+      "es",
+      "fr",
+      "ja"
+   ],
+   "translations":{
+      "en":{
+         "password":"Password",
+         "phoneNumber":"Phone Number",
+         "signIn":"Sign in!"
+      },
+      "es":{
+         "password":"Contraseña",
+         "phoneNumber":"Número de teléfono",
+         "signIn":"Registrarse!"
+      },
+      "ru":{
+         "password":"пароль",
+         "phoneNumber":"Телефонный номер",
+         "signIn":"войти в систему!"
+      },
+      "tr":{
+         "password":"Şifre",
+         "phoneNumber":"Telefon Numarası",
+         "signIn":"Giriş Yap!"
+      },
+      "fr":{
+         "password":"Mot de passe",
+         "phoneNumber":"Numéro de téléphone",
+         "signIn":"Se connecter!"
+      },
+      "ja":{
+         "password":"パスワード",
+         "phoneNumber":"フォン",
+         "signIn":"サインイン!"
+      }
+   }
 }
