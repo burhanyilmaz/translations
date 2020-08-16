@@ -5,7 +5,8 @@
       "ru",
       "es",
       "fr",
-      "ja"
+      "ja",
+      "zh"
    ],
    "translations":{
       "en":{
@@ -37,6 +38,11 @@
          "password":"パスワード",
          "phoneNumber":"フォン",
          "signIn":"サインイン!"
+      },
+      "zh":{	
+        "password": "密码",	
+        "phoneNumber": "電話番号",	
+        "signIn": "登入"	
       }
    }
 }
